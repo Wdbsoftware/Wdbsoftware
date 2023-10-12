@@ -1,5 +1,5 @@
-###¡¡¡Hola!!! 👋\n
-Soy Wdb y este es mi github.
+###¡¡¡Hola!!! 👋
+#Soy Wdb y este es mi github. 
 
 <!--
 **Wdbsoftware/Wdbsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
