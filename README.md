@@ -1,6 +1,5 @@
 ## ¡¡¡Hola!!! 👋 ##
 ### Soy Wdb y este es mi github.
-#####Probando git
 
 <!--
 **Wdbsoftware/Wdbsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
